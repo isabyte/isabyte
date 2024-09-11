@@ -14,8 +14,7 @@
     ├── /bio
     │   ├── 26 years old
     │   ├── brazilian    
-    │   ├── system development student
-    │   └── java enthusiast
+    │   └── system development student
     │
     └── /learning
         ├── spring boot
